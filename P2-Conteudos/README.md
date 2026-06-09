@@ -50,6 +50,10 @@ Após esse horário, não será permitida a entrada para realização da prova.
 
 A prova foi elaborada com base nos conteúdos desenvolvidos ao longo do semestre, incluindo as atividades práticas e o tema será o Projeto INPE realizado nas aulas. Recomenda-se a revisão dos materiais disponibilizados, exercícios realizados em sala e atividades de preparação.
 
+
+### Datas e Pesos das Atividades e Avaliações
+No link: https://github.com/lucineidepimenta1/FATEC-JCR-DSM-IEC-2026-1/blob/main/Apresentacao-da-Disciplina/IEC-Aula01-Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf
+
 Desejo a todos uma excelente revisão e uma ótima avaliação.
 
 **Prof.ª Lucineide.**
